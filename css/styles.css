@@ -1,0 +1,55 @@
+.intro-links {
+  float: right;
+}
+.card {
+  background-color: whitesmoke;
+}
+.card-1 {
+  float: left;
+  background-color: honeydew;
+}
+.card-header-1 {
+  background-color: palegreen;
+}
+.card-2 {
+  float: right;
+  background-color: aliceblue;
+}
+.card-header-2 {
+  background-color: lightblue;
+
+}
+.card-3 {
+  background-color: lavenderblush;
+}
+.card-header-3 {
+  background-color: plum;
+}
+img {
+  width: 20%;
+  height: 20%;
+  float: left;
+  padding: 15px;
+  margin: 5px;
+}
+.img-2 {
+  width: 40%;
+  height: 40%;
+  float: right;
+  padding: 15px;
+  margin: 5px;
+}
+.img-3 {
+  float: left;
+}
+.sidebar {
+  width: 30%;
+  float: left;
+  background-color: lightgrey;
+  font-size: 10px;
+  margin-right: 10px;
+  border: solid cornflowerblue;
+}
+.sidebar h2 {
+  text-align: center;
+}
