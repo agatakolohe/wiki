@@ -3,11 +3,14 @@
 }
 .card {
   background-color: whitesmoke;
+  margin-bottom: 30px;
+  
 }
 .card-1 {
   float: left;
   background-color: honeydew;
 }
+
 .card-header-1 {
   background-color: palegreen;
 }
@@ -43,12 +46,11 @@ img {
   float: left;
 }
 .sidebar {
-  width: 30%;
+  width: 20%;
   float: left;
   background-color: lightgrey;
   font-size: 10px;
   margin-right: 10px;
-  border: solid cornflowerblue;
 }
 .sidebar h2 {
   text-align: center;
