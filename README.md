@@ -16,7 +16,7 @@ This is a supplemental practice website for Epicodus. It was made to practice us
 
 ## Known Bugs
 
-No known bugs present
+Format seems to change when opened through GH-Pages compared to desktop.
 
 ## Support and contact details
 
